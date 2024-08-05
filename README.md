@@ -14,5 +14,5 @@
 
 
 # Outcomes:
-- Insights from the data and project are were presented through a set of slides to help drive business decisions.
+- Insights from the data and project are presented through a set of slides to help drive business decisions.
 - Presentation slides can be found [here](https://github.com/robert-solomon12/Customer_Analytics_Telecom_Project/blob/main/Telekom_Analytics_Pre.pdf) 
