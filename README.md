@@ -9,7 +9,7 @@
 
 
 # The objective are the following:
-1. To analyze "Customer Churn" and understand the factors associated with it
+1. To analyze "Customer Churn" and understand the factors associated with it by addressing some arising questions.
 2. Develop Churn Prediction Model 
 3. Implement Machine Learning Algorithms and select the best method for Churn Prediction
 
@@ -61,4 +61,4 @@
   - Confusion Matrix and ROC Curve
 
 
-# For more detailed information on the above methods employed, the presentation slides can be found [here](https://github.com/robert-solomon12/Customer_Analytics_Telecom_Project/blob/main/Telekom_Analytics_Pre.pdf)
+### For a more detailed information on the above methods employed, the presentation slides can be found [here](https://github.com/robert-solomon12/Customer_Analytics_Telecom_Project/blob/main/Telekom_Analytics_Pre.pdf)
