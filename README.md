@@ -57,9 +57,8 @@
 
 
 ## Best Model Selection
-   - Detailed Analysis of Best Performing Model:
-     - Summary of model performances using resamples
-     - Confusion Matrix and ROC Curve
+  - Summary of model performances using resamples
+  - Confusion Matrix and ROC Curve
 
 
-# For more information on the above methods employed, the presentation slides can be found [here](https://github.com/robert-solomon12/Customer_Analytics_Telecom_Project/blob/main/Telekom_Analytics_Pre.pdf)
+# For more detailed information on the above methods employed, the presentation slides can be found [here](https://github.com/robert-solomon12/Customer_Analytics_Telecom_Project/blob/main/Telekom_Analytics_Pre.pdf)
