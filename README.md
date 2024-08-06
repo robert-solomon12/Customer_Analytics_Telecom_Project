@@ -1,5 +1,6 @@
 # Customer_Analytics_Telecom_Project
 
+<img src="IMG/customers-chrun.jpg" width="700">
 
 # Background:
 - The background of this Dataset is to analyzing telecom customer churn data is crucial for providers to understand factors influencing customer departure. 
