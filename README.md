@@ -51,7 +51,7 @@
      - Accuracy
      - Precision
      - Recall
-     - F1 Score
+     - F1 Scoring
    - Comparison of Model Performance:
      - A confusion Matrix for each model
 
