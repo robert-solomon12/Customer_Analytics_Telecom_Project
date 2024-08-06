@@ -16,4 +16,50 @@
 
 # Outcomes:
 - Insights from the data and project are presented through a set of slides to help drive business decisions.
-- Presentation slides can be found [here](https://github.com/robert-solomon12/Customer_Analytics_Telecom_Project/blob/main/Telekom_Analytics_Pre.pdf) 
+
+
+# Key Data Scientific methods employed:
+## Data Management:
+  - Overview of Dataset:
+     - Data source: Customer_Analytics_Telecom_Master.xlsx
+  - Key variables:
+    - Tenure, SeniorCitizen, Partner, Dependents, etc.
+  
+  - Initial Data Cleaning and Preparation:
+    - Handling missing values,
+    - Data type conversion
+
+  
+## Exploratory Data Analysis:
+  - A number of variables influencing Churn was identified and extracted from my findings and visualized further into Bar bar charts and histogram to help understand. 
+
+
+## Model Development
+  - ML Models Used:
+    - Logistic Regression
+    - Decision Tree (DT)
+    - Naïve Bayes
+    - Random Forest
+
+  - Feature Selection and Engineering:
+    - Conversion of categorical variables to factors
+    - Splitting data into training and test sets
+
+
+## Model Evaluation
+   - Metrics for Evaluation:
+     - Accuracy
+     - Precision
+     - Recall
+     - F1 Score
+   - Comparison of Model Performance:
+     - A confusion Matrix for each model
+
+
+## Best Model Selection
+   - Detailed Analysis of Best Performing Model:
+     - Summary of model performances using resamples
+     - Confusion Matrix and ROC Curve
+
+
+# For more information on the above methods employed, the presentation slides can be found [here](https://github.com/robert-solomon12/Customer_Analytics_Telecom_Project/blob/main/Telekom_Analytics_Pre.pdf)
