@@ -61,4 +61,4 @@
   - Confusion Matrix and ROC Curve
 
 
-### For a more detailed information on the above methods employed, the presentation slides can be found when you click ['here'](https://github.com/robert-solomon12/Customer_Analytics_Telecom_Project/blob/main/Telekom_Analytics_Pre.pdf)
+### For a more detailed information on the above methods performed, the presentation slides can be found when you click ['here'](https://github.com/robert-solomon12/Customer_Analytics_Telecom_Project/blob/main/Telekom_Analytics_Pre.pdf)
