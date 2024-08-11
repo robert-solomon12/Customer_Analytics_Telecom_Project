@@ -18,7 +18,7 @@
 - Insights from the data and project are presented through a set of slides to help drive business decisions.
 
 
-# Data Scientific methods employed:
+# Data Scientific methods performed:
 ## Data Management:
   - Overview of Dataset:
      - Data source: Customer_Analytics_Telecom_Master.xlsx
