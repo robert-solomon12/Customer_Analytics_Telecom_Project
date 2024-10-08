@@ -3,7 +3,7 @@
 <img src="IMG/customers-chrun.jpg" width="700">
 
 # Background:
-- The background of this Dataset is to analyzing telecom customer churn data is crucial for providers to understand factors influencing customer departure. 
+- The background of this Project is to analyzing telecom customer churn data is crucial for providers to understand factors influencing customer departure. 
 - This data helps identify patterns in service quality, pricing, and customer satisfaction, allowing companies to proactively address issues, improve customer retention strategies, and enhance overall service delivery. 
 - Data analysis in this context enables telecom companies to stay competitive by adapting to evolving customer preferences and mitigating potential churn risks.
 
